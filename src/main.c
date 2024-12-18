@@ -29,6 +29,9 @@ static const char stack[] = "$STACK:200000";
 
 int main(int argc, char *argv[])
 {
+#ifdef __WII__
+	chdir("/apps/prince");
+#endif
 	g_argc = argc;
 	g_argv = argv;
 	pop_main();
