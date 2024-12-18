@@ -1,0 +1,13 @@
+# Game Controller DB for SDL in 2.0.10 format
+# Source: https://github.com/gabomdq/SDL_GameControllerDB
+
+05002bf87e0500000105000001000000,Nintendo Wiimote,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b4,start:b5,dpup:h0.2,dpdown:h0.8,dpleft:h0.1,dpright:h0.4,platform:Nintendo Wii,
+
+# Wiimote + classic
+0500b98e7e0500000305000001000000
+# Wiimote + Nunchuck
+05004e877e0500000205000001000000
+# Wiimote + Guitar
+0500ed807e0500000405000001000000
+# GameCube
+0000b7c07e0500000002000001000000

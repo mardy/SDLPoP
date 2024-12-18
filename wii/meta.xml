@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Prince Of Persia</name>
+  <coder>NagyD, Alberto Mardegan (port)</coder>
+  <version>1.23-wii0</version>
+  <release_date>20241220912132</release_date>
+  <short_description>The game Prince of Persia</short_description>
+  <long_description>An open-source port of Prince of Persia, based on the disassembly of the DOS version, extended with new features.</long_description>
+</app>
